@@ -17,10 +17,10 @@ mouse
 timezone Asia/Manila
 
 #Disable root login
-rootpw --disabled
+rootpw --iscypted $1$iiRPeDMi$3M8sTjrJ1mbumkD370wSJ1
 
 #Initial users
-user cforonda --fullname "Christian Foronda" --iscrypted $1$PK4dLTtT$6CFTKPJJyi08orejkhth71
+user cforonda --fullname "Christian Foronda" --iscrypted $1$49F3FDDv$9mxHykJaUMRwwgw.HkNJ41
 
 #Reboot after installation
 reboot
