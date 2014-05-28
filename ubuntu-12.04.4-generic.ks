@@ -17,6 +17,8 @@ mouse
 timezone Asia/Manila
 
 #Disable root login
+#to change encrpted password
+#openssl passwd -1 "YOURPASSWORD"
 rootpw --iscypted $1$iiRPeDMi$3M8sTjrJ1mbumkD370wSJ1
 
 #Initial users

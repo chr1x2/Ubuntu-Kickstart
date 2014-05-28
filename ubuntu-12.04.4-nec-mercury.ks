@@ -17,6 +17,8 @@ mouse
 timezone Asia/Manila
 
 #Root password
+#to change encrpted password
+#openssl passwd -1 "YOURPASSWORD"
 rootpw --iscrypted $1$YdvBcNwr$dosa4QrabaTpRkQcB9kVm0
 
 #Initial user
