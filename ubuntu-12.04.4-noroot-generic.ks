@@ -21,9 +21,9 @@ rootpw --disabled
 
 #Initial users
 user cforonda --fullname "Christian Foronda" --iscrypted $1$PK4dLTtT$6CFTKPJJyi08orejkhth71
-user jtasipit --fullname "John Tasipit" --password 123qwe
-user dnepangue --fullname "Dioram Nepangue" --password 123qwe
-user gbejec --fullname "Gerald Bejec" --password 123qwe
+user jtasipit --fullname "John Tasipit" --password 123qweASD!
+user dnepangue --fullname "Dioram Nepangue" --password 123qweASD!
+user gbejec --fullname "Gerald Bejec" --password 123qweASD!
 
 #Reboot after installation
 reboot
