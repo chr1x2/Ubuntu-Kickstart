@@ -32,7 +32,7 @@ text
 install
 
 #Use Web installation
-url --url http://192.168.241.3/ubuntu
+url --url http://mirror.pregi.net/pub/Linux/ubuntu
 
 #System bootloader configuration
 bootloader --location=mbr 
